@@ -1,2 +1,2 @@
 # hello-world
-This is a simple hello world repository. The first of mine on github.
+Holla people! Until now , I found this site really fascinating and I hope to contribute to projects soon :)
